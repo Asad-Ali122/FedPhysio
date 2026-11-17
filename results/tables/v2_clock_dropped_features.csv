@@ -1,0 +1,9 @@
+,count
+scl_mean_20s,15
+phasic_std_20s,15
+temp_mean_20s,15
+scl_mean_60s,15
+phasic_std_60s,15
+temp_mean_60s,15
+rr_cv_60s,10
+scr_rate_60s,4
